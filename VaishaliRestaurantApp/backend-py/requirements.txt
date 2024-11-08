@@ -1,0 +1,6 @@
+Django
+djangorestframework
+channels
+celery
+redis
+pandas
